@@ -1,7 +1,6 @@
 # Full RAG Pipeline Project
 
 🚀 **Project:** Retrieval-Augmented Generation (RAG) Pipeline  
-**Author:** Hala Omary  
 
 ---
 
